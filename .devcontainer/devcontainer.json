@@ -1,0 +1,5 @@
+{
+  "image": "node:16.20.2",
+  "features": {},
+  "postCreateCommand": "node -v"
+}
